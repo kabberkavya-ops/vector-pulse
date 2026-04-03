@@ -48,7 +48,7 @@ Vector-Pulse/
 * Network security monitoring
 * Intrusion Detection Systems
 * Cybersecurity research
-* AI-based threat detection
+  
 
 ## Future Enhancements
 
