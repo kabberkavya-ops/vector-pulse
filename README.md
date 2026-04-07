@@ -10,7 +10,7 @@ Vector Pulse is a Machine Learning–based cybersecurity system developed to det
 * Identifies potential DDoS attacks
 * Uses Machine Learning models for prediction
 * Supports continuous network monitoring
-* Scalable for large datasets
+
 
 ## Technologies Used
 
