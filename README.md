@@ -44,7 +44,6 @@ Applications:
 Future Enhancements:
 - Real-time monitoring system
 - Improved accuracy
-- Web dashboard for visualization
 - Alert system for attacks
 
 Author:
